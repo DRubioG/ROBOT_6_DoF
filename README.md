@@ -1,6 +1,6 @@
 # 6_DoF_Robot
 
-![image](Thingiverse\6_DoF\images\image.png)
+![image](Thingiverse/6_DoF/images/image.png)
 
  This is a 6 DoF robot
 
