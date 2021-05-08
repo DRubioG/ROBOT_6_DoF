@@ -11,7 +11,7 @@ This folder contains a Freecad file with 1 DoF
 This folder contains every piece of the project
 
 ## [roobot](roobot.FCStd)
-This is the assembledd robot 
+This is the assembled robot 
 
 ![video](video.gif)
 
