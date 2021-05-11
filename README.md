@@ -13,6 +13,7 @@ The other are the pieces.
 
 # [piezas](piezas) & [robot_tool](robot_tool)
 This folder contains every piece of the project
+
 ![video](extremo.gif)
 
 # [roobot](roobot.FCStd)
